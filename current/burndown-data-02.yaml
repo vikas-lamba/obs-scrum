@@ -22,19 +22,23 @@ days:
 - date: '2016-10-13'
   updated_at: '2016-10-13T13:42:29+02:00'
   story_points:
-    total: 28.0
-    open: 28.0
+    total: 18.0
+    open: 18.0
   tasks:
-    total: 90
-    open: 85
+    total: 60
+    open: 55
+  tasks_extra:
+    done: 0
 - date: '2016-10-14'
   updated_at: '2016-10-14T11:16:38+02:00'
   story_points:
-    total: 28.0
-    open: 23.0
+    total: 18.0
+    open: 13.0
   tasks:
-    total: 91
-    open: 64
+    total: 60
+    open: 37
+  tasks_extra:
+    done: 0
 - date: '2016-10-17'
   updated_at: '2016-10-17T11:38:39+02:00'
   story_points:
