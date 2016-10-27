@@ -14,30 +14,42 @@ days:
 - date: '2016-10-24'
   updated_at: '2016-10-24T14:00:13+02:00'
   story_points:
-    total: 10.0
-    open: 10.0
+    total: 8.0
+    open: 8.0
   tasks:
-    total: 47
-    open: 47
+    total: 43
+    open: 43
   tasks_extra:
     done: 3
 - date: '2016-10-25'
   updated_at: '2016-10-25T11:03:25+02:00'
   story_points:
-    total: 10.0
-    open: 10.0
+    total: 8.0
+    open: 8.0
   tasks:
-    total: 45
-    open: 40
+    total: 43
+    open: 38
   tasks_extra:
     done: 4
 - date: '2016-10-26'
   updated_at: '2016-10-26T11:08:36+02:00'
   story_points:
-    total: 10.0
-    open: 8.0
+    total: 8.0
+    open: 6.0
   tasks:
     total: 43
     open: 26
   tasks_extra:
     done: 10
+- date: '2016-10-27'
+  updated_at: '2016-10-27T15:21:52+02:00'
+  story_points:
+    total: 8.0
+    open: 3.0
+  tasks:
+    total: 43
+    open: 18
+  story_points_extra:
+    done: 5.0
+  tasks_extra:
+    done: 17
