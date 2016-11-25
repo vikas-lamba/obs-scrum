@@ -1,0 +1,24 @@
+Planning
+
+This is where we plan our next sprint.
+
+Agenda:
+  First part:
+   * Define a Sprint goal
+   * Get teams capacity
+   * Define Acceptance criteria
+   * Estimate
+   * Get team commitment
+
+  Second part:
+   * Discuss implementation
+   * Define tasks
+   * Reality check (Can we really do it?)
+   * Define cards for under-the-waterline
+   * Move cards to Sprint backlog
+
+
+Important tasks that will be groomed here as well if necessary.
+
+
+Meeting location might change over time and can be found here: https://trello.com/c/nMcSAMhw

@@ -1,0 +1,18 @@
+This meeting aims to keep our product backlog clean:
+* Process newly added cards (by declining it, sorting it or moving it 'to be groomed')
+* Groom cards that are in 'to be groomed', aka. being likely to be needed in one of the next sprints
+
+
+
+Grooming can, but doesn't have to, include:
+  * Adding / Updating card definitions
+  * Agree / review acceptance criterias and have it signed of by our PO
+  * Add / review user stories (who? why? what?)
+  * Estimate
+  * Add tasks
+
+
+All these tasks can also be done in planning. Even though it's recommended to have this done before to ease preparation of next sprint.
+
+
+Meeting location might change over time and can be found here: https://trello.com/c/KGekkeOI

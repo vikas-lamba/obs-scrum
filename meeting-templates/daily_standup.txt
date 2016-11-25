@@ -1,0 +1,11 @@
+Our daily standup meeting were the dev team talks about:
+
+- What did you do yesterday to help the team finish the Sprint?
+- What will you do today to help the team finish the Sprint?
+- Is there any obstacle blocking you or the team from achieving the Sprint Goal?
+
+
+Our PO doesn't have to attend here, but is happily invited:-)
+
+
+Meeting location might change over time and can be found here: https://trello.com/c/hhb31UzW
