@@ -83,3 +83,13 @@ days:
     open: 34
   tasks_extra:
     done: 3
+- date: '2016-12-15'
+  updated_at: '2016-12-15T11:02:53+01:00'
+  story_points:
+    total: 18.0
+    open: 11.0
+  tasks:
+    total: 79
+    open: 34
+  tasks_extra:
+    done: 3
