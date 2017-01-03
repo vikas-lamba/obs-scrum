@@ -6,10 +6,11 @@ meta:
   - Backlog
   - Doing
   - In Review
-  total_days: 12
+  total_days: 14
   weekend_lines:
-  - 3.5
-  - 8.5
+  - 4.5
+  - 9.5
+  - 13.5
 days:
 - date: '2016-12-20'
   updated_at: '2016-12-20T14:55:40+01:00'
