@@ -59,7 +59,7 @@ days:
   tasks_extra:
     done: 18
 - date: '2016-12-26'
-  updated_at: '2016-12-23T14:15:31+01:00'
+  updated_at: '2016-12-26T14:15:31+01:00'
   story_points:
     total: 10.0
     open: 10.0
