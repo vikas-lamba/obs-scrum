@@ -6,6 +6,7 @@ meta:
   - Backlog
   - Doing
   - In Review
+  - BLOCKED
   total_days: 10
   weekend_lines:
   - 4.5
@@ -15,8 +16,18 @@ days:
 - date: '2017-01-23'
   updated_at: '2017-01-23T14:32:11+01:00'
   story_points:
-    total: 34.0
-    open: 34.0
+    total: 19.0
+    open: 19.0
   tasks:
-    total: 135
-    open: 101
+    total: 54
+    open: 45
+- date: '2017-01-24'
+  updated_at: '2017-01-24T11:15:06+01:00'
+  story_points:
+    total: 19.0
+    open: 19.0
+  tasks:
+    total: 54
+    open: 31
+  tasks_extra:
+    done: 25
