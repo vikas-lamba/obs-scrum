@@ -28,6 +28,8 @@ days:
   tasks:
     total: 54
     open: 31
+  story_points_extra:
+    done: 0.0
   tasks_extra:
     done: 25
 - date: '2017-01-25'
