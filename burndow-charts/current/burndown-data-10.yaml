@@ -15,11 +15,11 @@ days:
 - date: '2017-02-13'
   updated_at: '2017-02-13T14:34:10+01:00'
   story_points:
-    total: 17.0
-    open: 17.0
+    total: 7.0
+    open: 7.0
   tasks:
-    total: 79
-    open: 64
+    total: 43
+    open: 43
 - date: '2017-02-14'
   updated_at: '2017-02-15T11:05:57+01:00'
   story_points:
