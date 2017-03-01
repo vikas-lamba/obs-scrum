@@ -9,7 +9,7 @@ meta:
   - BLOCKED
   total_days: 9
   weekend_lines:
-  - 3.5
+  - 4.5
 days:
 - date: '2017-02-28'
   updated_at: '2017-02-28T15:55:33+01:00'
