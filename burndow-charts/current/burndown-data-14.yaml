@@ -1,0 +1,21 @@
+---
+meta:
+  board_id: Fs7boVwI
+  sprint: 14
+  not_done_columns:
+  - Backlog
+  - Doing
+  - In Review
+  - BLOCKED
+  total_days: 8
+  weekend_lines:
+  - 4.5
+days:
+- date: '2017-04-10'
+  updated_at: '2017-04-10T13:45:27+02:00'
+  story_points:
+    total: 43.0
+    open: 43.0
+  tasks:
+    total: 135
+    open: 119
