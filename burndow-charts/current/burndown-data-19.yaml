@@ -43,3 +43,11 @@ days:
   tasks:
     total: 185
     open: 111
+- date: '2017-06-30'
+  updated_at: '2017-06-30T13:22:00+02:00'
+  story_points:
+    total: 40.0
+    open: 34.0
+  tasks:
+    total: 186
+    open: 98
