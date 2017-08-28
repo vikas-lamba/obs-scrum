@@ -6,11 +6,23 @@ documented [here](https://github.com/openSUSE/trollolo#installation).
 
 ## Starting a new Sprint
 
-Run from `/burndown-charts/current`:
+* Run from `/burndown-charts/current`:
 
 ```shell
 trollolo burndown --new-sprint
 ```
+* Plot the chart (see [below](#updating-the-burndown-chart-image) for detailed instruction)
+
+* Add newly plotted chart and burndown yaml file to the git repo
+
+* Move the old chart and the plotted image to the archive:
+
+```shell
+git mv burndow-charts/current/burndown-i.png ../old/
+git mv burndow-charts/current/burndown-date-i.png ../old/
+```
+
+where `i` is the number of the old sprint.
 
 ## Starting a new Sprint day
 
