@@ -9,3 +9,4 @@ In the in the [burndow-charts folder](https://github.com/openSUSE/obs-scrum/tree
 ## Meeting Templates
 
 In the in the [meeting-templates folder](https://github.com/openSUSE/obs-scrum/tree/master/meeting-templates) you can find some `txt` files. Those files explain what all the scrum meetings we have are about and where they take place.
+They are also used as templates for creating new appointments.
