@@ -4,7 +4,7 @@ Build Solutions Team Burn Down Charts and Meeting Templates.
 
 ## Burn Down Charts
 
-In the in the [burndow-charts folder](https://github.com/openSUSE/obs-scrum/tree/master/burndow-charts) you can find the current and old burn charts, as well as [instructions to generate them](https://github.com/openSUSE/obs-scrum/tree/master/burndow-charts).
+In the [burndow-charts folder](https://github.com/openSUSE/obs-scrum/tree/master/burndow-charts) you can find the current and old burn charts, as well as [instructions to generate them](https://github.com/openSUSE/obs-scrum/tree/master/burndow-charts).
 
 ## Meeting Templates
 
