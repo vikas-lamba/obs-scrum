@@ -10,3 +10,30 @@ In the [burndow-charts folder](https://github.com/openSUSE/obs-scrum/tree/master
 
 In the in the [meeting-templates folder](https://github.com/openSUSE/obs-scrum/tree/master/meeting-templates) you can find some `txt` files. Those files explain what all the scrum meetings we have are about and where they take place.
 They are also used as templates for creating new appointments.
+
+## Meetings & Tools
+
+### Retrospective
+
+* [Retromat](https://plans-for-retrospectives.com/)
+  – Tool for preparing a retrospective
+
+* [Webwhiteboard](https://webwhiteboard.com/)
+  – Tool for drawing charts, painting pictures as well as handling post-its
+
+* [Trello](https://trello.com/)
+  – Tool for handing post-its. Most of our retros are tracked here
+
+* [Mumble](https://wiki.mumble.info/wiki/Main_Page)
+  – Usefule for having separate rooms, eg. smaller groups in a remote team
+
+
+### Planning Grooming
+
+* [Planitpoker](http://www.planitpoker.com/)
+  – Tool for estimating user stories
+
+* [Trello](https://trello.com/)
+  – Most of our processes are currently centered around trello, eg. [our sprint board](https://trello.com/b/Fs7boVwI/bs-sprint), [product backlog](https://trello.com/b/kCXtUSYN/obs-frontend-backlog) and retrospectives are organized with trello
+
+
