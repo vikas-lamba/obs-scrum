@@ -2,6 +2,13 @@
 
 Build Solutions Team Burn Down Charts and Meeting Templates.
 
+## In a nutshell
+
+In simple terms a SCRUM team is split into two concerns, meaning WHAT the team is going to do and
+HOW the team is going to do this. The product owner has the oversight over the WHAT. The development
+team is in charge of the HOW. The scrum master is bascially the glue between these two concerns. He
+is facilitates meetings, helps the team (PO and development team) to improve.
+
 ## Burn Down Charts
 
 In the [burndow-charts folder](https://github.com/openSUSE/obs-scrum/tree/master/burndow-charts) you can find the current and old burn charts, as well as [instructions to generate them](https://github.com/openSUSE/obs-scrum/tree/master/burndow-charts).
