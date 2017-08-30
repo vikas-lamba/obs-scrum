@@ -44,3 +44,12 @@ They are also used as templates for creating new appointments.
   – Most of our processes are currently centered around trello, eg. [our sprint board](https://trello.com/b/Fs7boVwI/bs-sprint), [product backlog](https://trello.com/b/kCXtUSYN/obs-frontend-backlog) and retrospectives are organized with trello
 
 
+## SCRUM guide & useful information
+
+* [The SCRUM guide](http://www.scrumguides.org/scrum-guide.html)
+
+* [Agile manifesto](http://agilemanifesto.org/)
+
+* [https://www.scrum.org](https://www.scrum.org/resources/what-is-scrum)
+
+* [https://www.scrumalliance.org](https://www.scrumalliance.org/why-scrum/scrum-resources)
