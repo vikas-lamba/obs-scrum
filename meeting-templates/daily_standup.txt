@@ -1,5 +1,13 @@
 Our daily standup meeting were the dev team talks about:
 
+1. What did you hate about yesterday?
+2. What did you enjoy about yesterday?
+3. What are you looking forward to least about today?
+4. What are you looking forward to most about today?
+5. What areas are you concerned about?
+
+Formerly we did this other questions:
+
 - What did you do yesterday to help the team finish the Sprint?
 - What will you do today to help the team finish the Sprint?
 - Is there any obstacle blocking you or the team from achieving the Sprint Goal?
