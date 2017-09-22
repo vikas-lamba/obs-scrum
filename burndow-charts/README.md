@@ -2,47 +2,35 @@
 
 We currently create our burndown charts with [trollolo](https://github.com/openSUSE/trollolo).
 Installation of trollolo and configuration of [trello](https://trello.com) API credentials is
-documented [here](https://github.com/openSUSE/trollolo#installation).
+documented [here](https://github.com/openSUSE/trollolo#installation). Use trollolo >= 0.0.14, otherwise you won't be able to use some of the documented commands.
 
 ## Starting a new Sprint
 
-* Run from `/burndown-charts/current`:
+- Run from `/burndown-charts/current`:
 
-```shell
-trollolo burndown --new-sprint
-```
-* Plot the chart (see [below](#updating-the-burndown-chart-image) for detailed instruction)
+  ```shell
+  trollolo burndown --new-sprint --plot-to-board
+  ```
 
-* Add newly plotted chart and burndown yaml file to the git repo
+  This command will automatically upload the burndown chart to Trello (you need to use a token with write rights).
 
-* Move the old chart and the plotted image to the archive:
+- Add newly plotted chart and burndown yaml file to the git repo
 
-```shell
-git mv burndow-charts/current/burndown-i.png ../old/
-git mv burndow-charts/current/burndown-date-i.png ../old/
-```
+- Move the old chart and the plotted image to the archive:
 
-where `i` is the number of the old sprint.
+  ```shell
+  git mv burndow-charts/current/burndown-i.png ../old/
+  git mv burndow-charts/current/burndown-date-i.png ../old/
+  ```
 
-## Starting a new Sprint day
+  where `i` is the number of the old sprint.
 
-Run from `/burndown-charts/current`:
+## Updating the burndown chart
 
-```shell
-trollolo burndown
-```
+- Run from `/burndown-charts/current`:
 
-## Updating the burndown chart image
+  ```shell
+  trollolo burndown --plot-to-board
+  ```
 
-Run from `/burndown-charts/current`:
-
-```shell
-trollolo plot i
-```
-
-where `i` is the number of the sprint. For example for the Sprint 07:
-
-```shell
-trollolo plot 07
-```
-
+- Add newly plotted chart and burndown yaml file to the git repo
