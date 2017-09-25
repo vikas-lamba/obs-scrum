@@ -14,16 +14,6 @@ documented [here](https://github.com/openSUSE/trollolo#installation). Use trollo
 
   This command will automatically upload the burndown chart to Trello (you need to use a token with write rights).
 
-- Add newly plotted chart and burndown yaml file to the git repo
-
-- Move the old chart and the plotted image to the archive:
-
-  ```shell
-  git mv burndow-charts/current/burndown-i.png ../old/
-  git mv burndow-charts/current/burndown-date-i.png ../old/
-  ```
-
-  where `i` is the number of the old sprint.
 
 ## Updating the burndown chart
 
@@ -32,5 +22,3 @@ documented [here](https://github.com/openSUSE/trollolo#installation). Use trollo
   ```shell
   trollolo burndown --plot-to-board
   ```
-
-- Add newly plotted chart and burndown yaml file to the git repo
