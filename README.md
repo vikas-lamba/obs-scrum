@@ -11,7 +11,7 @@ is facilitates meetings, helps the team (PO and development team) to improve.
 
 ## Burn Down Charts
 
-In the [burndow-charts folder](https://github.com/openSUSE/obs-scrum/tree/master/burndow-charts) you can find the current and old burn charts, as well as [instructions to generate them](https://github.com/openSUSE/obs-scrum/tree/master/burndow-charts).
+In the [burndow-charts folder](https://github.com/openSUSE/obs-scrum/tree/master/burndow-charts) you can find all the burndown charts, as well as [instructions to generate them](https://github.com/openSUSE/obs-scrum/tree/master/burndow-charts/README.md). The current burndown chart is the one with the highest Sprint number.
 
 ## Meeting Templates
 
