@@ -92,3 +92,11 @@ days:
   tasks:
     total: 234
     open: 160
+- date: '2017-10-03'
+  updated_at: '2017-10-03T13:24:20+02:00'
+  story_points:
+    total: 52.0
+    open: 32.0
+  tasks:
+    total: 234
+    open: 129
