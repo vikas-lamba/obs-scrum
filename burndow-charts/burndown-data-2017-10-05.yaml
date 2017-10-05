@@ -1,0 +1,19 @@
+---
+meta:
+  board_id: Fs7boVwI
+  sprint: 2
+  total_days: 8
+  weekend_lines:
+  - '2.5'
+  - '7.5'
+days:
+- &1
+  date: '2017-10-05'
+  updated_at: '2017-10-05T16:19:59+02:00'
+  story_points:
+    total: 41.0
+    open: 10.0
+  tasks:
+    total: 208
+    open: 64
+- *1
