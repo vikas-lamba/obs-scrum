@@ -7,9 +7,10 @@ meta:
   - Doing
   - In Review
   - BLOCKED
-  total_days: 10
+  total_days: 14
   weekend_lines:
   - 5.5
+  - 10.5
 days:
 - date: '2017-10-23'
   updated_at: '2017-10-23T16:32:48+02:00'
