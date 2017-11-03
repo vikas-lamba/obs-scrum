@@ -22,3 +22,13 @@ documented [here](https://github.com/openSUSE/trollolo#installation). Use trollo
   ```shell
   trollolo burndown --plot-to-board
   ```
+  
+## Other commands
+
+- In case you need to regenerate the image without changing the data for a concrete Sprint (for example if you manually modify the data file) run:
+
+  ```shell
+  trollolo plot SPRINT-NUMBER
+  ```
+  
+  This command doesn't automatically upload the burndown chart.
