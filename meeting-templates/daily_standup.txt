@@ -6,13 +6,6 @@ Our daily standup meeting were the dev team talks about:
 4. What are you looking forward to most about today?
 5. What areas are you concerned about?
 
-Formerly we did this other questions:
-
-- What did you do yesterday to help the team finish the Sprint?
-- What will you do today to help the team finish the Sprint?
-- Is there any obstacle blocking you or the team from achieving the Sprint Goal?
-
-
 Our PO doesn't have to attend here, but is happily invited:-)
 
 
