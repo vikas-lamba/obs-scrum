@@ -20,3 +20,11 @@ days:
   tasks:
     total: 105
     open: 89
+- date: '2017-12-12'
+  updated_at: '2017-12-12T10:46:55+01:00'
+  story_points:
+    total: 25.0
+    open: 24.0
+  tasks:
+    total: 106
+    open: 86
