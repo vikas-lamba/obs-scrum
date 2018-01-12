@@ -1,0 +1,45 @@
+---
+meta:
+  board_id: Fs7boVwI
+  sprint: 30
+  not_done_columns:
+  - Backlog
+  - Doing
+  - In Review
+  - BLOCKED
+  total_days: 10
+  weekend_lines:
+  - 5.5
+days:
+- date: '2018-01-08'
+  updated_at: '2018-01-08T13:27:44+01:00'
+  story_points:
+    total: 41.0
+    open: 41.0
+  tasks:
+    total: 138
+    open: 138
+- date: '2018-01-09'
+  updated_at: '2018-01-09T13:31:46+01:00'
+  story_points:
+    total: 41.0
+    open: 41.0
+  tasks:
+    total: 138
+    open: 130
+- date: '2018-01-10'
+  updated_at: '2018-01-10T13:38:04+01:00'
+  story_points:
+    total: 41.0
+    open: 38.0
+  tasks:
+    total: 138
+    open: 104
+- date: '2018-01-11'
+  updated_at: '2018-01-11T11:47:12+01:00'
+  story_points:
+    total: 41.0
+    open: 30.0
+  tasks:
+    total: 138
+    open: 101
