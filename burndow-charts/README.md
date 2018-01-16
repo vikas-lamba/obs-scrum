@@ -2,7 +2,7 @@
 
 We currently create our burndown charts with [trollolo](https://github.com/openSUSE/trollolo).
 Installation of trollolo and configuration of [trello](https://trello.com) API credentials is
-documented [here](https://github.com/openSUSE/trollolo#installation). Use trollolo >= 0.0.14, otherwise you won't be able to use some of the documented commands.
+documented [here](https://github.com/openSUSE/trollolo#installation). Use trollolo >= 0.0.14, otherwise you won't be able to use some of the documented commands. Make sure you use Ruby 2.2-2.4.1, as currently Trollolo is not working with other Ruby versions.
 
 ## Starting a new Sprint
 
