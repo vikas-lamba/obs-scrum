@@ -22,9 +22,10 @@ documented [here](https://github.com/openSUSE/trollolo#installation). Use trollo
   ```shell
   trollolo burndown --plot-to-board
   ```
+
   
 ## Other commands
-
+  
 - In case you need to regenerate the image without changing the data for a concrete Sprint (for example if you manually modify the data file) run:
 
   ```shell
@@ -32,3 +33,9 @@ documented [here](https://github.com/openSUSE/trollolo#installation). Use trollo
   ```
   
   This command doesn't automatically upload the burndown chart.
+
+
+### Note
+
+You can use the `burndown` command without the `--plot-to-board` command, if for any reason you need to update the yaml file without ploting and uploading the images. You can also use `burndown` with the `--plot` option to update the yaml file, plot the image, but without uploading the plotted image to Trello.
+    
