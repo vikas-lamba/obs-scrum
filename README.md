@@ -53,3 +53,8 @@ They are also used as templates for creating new appointments.
 * [https://www.scrum.org](https://www.scrum.org/resources/what-is-scrum)
 
 * [https://www.scrumalliance.org](https://www.scrumalliance.org/why-scrum/scrum-resources)
+
+
+## License
+
+The content of this repository is licensed under [Creative Commons Attribution 4.0](LICENSE).
