@@ -3,7 +3,7 @@ meta:
   board_id: Fs7boVwI
   sprint: 32
   not_done_columns:
-  - Backlog
+  - Sprint Backlog
   - Doing
   - In Review
   - BLOCKED
