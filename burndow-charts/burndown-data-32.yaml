@@ -19,3 +19,11 @@ days:
   tasks:
     total: 191
     open: 191
+- date: '2018-02-06'
+  updated_at: '2018-02-06T10:15:12+01:00'
+  story_points:
+    total: 49.0
+    open: 44.0
+  tasks:
+    total: 191
+    open: 175
